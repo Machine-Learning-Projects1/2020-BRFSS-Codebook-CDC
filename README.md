@@ -16,8 +16,12 @@ Originally, the dataset come from the CDC (1) and is a major part of the Behavio
 
 ---
 
-### **Created by FAMM**
-#### *Version 1.0.0*
+## Jupyter Notebook
+
+#### Step by step explaination of how we trained different models on CDC dataset and compare the results @[2020-BRFSS-Codebook-CDC Notebook](https://github.com/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC/blob/main/CDC_ML.ipynb)
+
+#### Also, you can find out our Heath Disease Prediction APP, based on this repository @[2020-BRFSS-Codebook-CDC APP](https://github.com/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC-APP)
+
 
 ---
 
