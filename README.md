@@ -1,4 +1,5 @@
 # A project for data enthusiasts. 👋🏼
+[![GitHub last commit](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)
 
 <!-- ![img](https://www.emvco.com/wp-content/uploads/2021/03/why-global-payment-specifications-matter-FI.jpg) -->
 ![img](https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1206097479.webp?itok=u97J5Sog)
@@ -12,14 +13,8 @@ Originally, the dataset come from the CDC and is a major part of the Behavioral 
 
 ---
 
-**Version 1.0.0**
-
-**Created by FAMM**
-
-<!-- add badges for the issues, release, latest updates, and stars/forks -->
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)
-
+### **Created by FAMM**
+#### *Version 1.0.0*
 
 ---
 
