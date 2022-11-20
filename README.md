@@ -1,8 +1,9 @@
-# A project for data enthusiasts. 👋🏼
-[![GitHub last commit](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)
+
+# A project for data enthusiasts 👋🏼
 
 <!-- ![img](https://www.emvco.com/wp-content/uploads/2021/03/why-global-payment-specifications-matter-FI.jpg) -->
 ![img](https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202106/GettyImages-1206097479.webp?itok=u97J5Sog)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)](https://img.shields.io/github/last-commit/Machine-Learning-Projects1/2020-BRFSS-Codebook-CDC)
 
 ## A machin learning project to predict Heart disease using 17 Risk Factor provided by BRFSS
 
